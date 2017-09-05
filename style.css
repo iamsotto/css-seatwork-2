@@ -1,4 +1,7 @@
-body {
+section.col {
+    width: 33%;
+    float: left;
+}body {
     margin: 0;
 }
 
